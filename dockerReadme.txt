@@ -1,5 +1,6 @@
 STEP 1.
-Generate rest-demo.jar
+Generate rest-demo.jar : 
+"mvn package" : this will create .jar file and save in target folder.
 
 STEP 2.
 Generate Docker File

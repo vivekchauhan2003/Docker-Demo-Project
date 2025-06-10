@@ -21,7 +21,7 @@ A simple demo project showcasing Docker basics, including containerization of a 
 
 3. Run the container:
    ```bash
-   docker run -p 4000:80 docker-demo
+   docker run -p 8080:8080 docker-demo
    ```
 
 4. Access the application at `http://localhost:4000`
